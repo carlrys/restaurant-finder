@@ -1,5 +1,5 @@
 
-# Restaurant Finder Codeing Challenge
+# Restaurant Finder Coding Challenge
 
 This project is a FastAPI-based service that takes a natural-language restaurant search query,
 parses it into structured JSON using the Groq API, and prepares it for further search logic
