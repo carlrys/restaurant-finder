@@ -1,0 +1,5 @@
+groq
+httpx
+python-dotenv
+fastapi
+uvicorn[standard]
