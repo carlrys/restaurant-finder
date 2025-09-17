@@ -87,3 +87,6 @@ curl "http://127.0.0.1:8000/api/execute?message=Find%20me%20a%20cheap%20sushi%20
 * Regex might be unreliable
 
 ---
+
+## Deployed Site/ URL to test
+* https://restaurant-finder-challenge-carl.onrender.com/api/execute?message=Find%20me%20a%20cheap%20sushi%20restaurant%20in%20downtown%20Los%20Angeles%20that%27s%20open%20now%20and%20has%20at%20least%20a%204-star%20rating&code=pioneerdevai
